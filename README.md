@@ -1,5 +1,5 @@
-<h2 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mohammad Nur Fawaiq</h2>
-<h3 align="center">Long life learner from Indonesia</h3>
+<h3 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mohammad Nur Fawaiq</h3>
+<h5 align="center">Long life learner from Indonesia</h5>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurfawaiq&show_icons=true&hide_border=true&count_private=true)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfawaiq&show_icons=true&locale=en&layout=compact" alt="nurfawaiq" /></p>
