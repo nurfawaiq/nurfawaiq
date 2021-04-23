@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mohammad Nur Fawaiq</h2>
+<h3 align="center">Long life learner from Indonesia</h3>
 
-<!--
-**nurfawaiq/nurfawaiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurfawaiq&show_icons=true&hide_border=true&count_private=true)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfawaiq&show_icons=true&locale=en&layout=compact" alt="nurfawaiq" /></p>
 
-Here are some ideas to get you started:
+### You can find in me in the web 🌍
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://yukcoding.id
+[youtube]: https://youtube.com/yukcoding2
+[instagram]: https://www.instagram.com/nurfawaiq/
+[linkedin]: https://www.linkedin.com/in/mohnurfawaiq/
