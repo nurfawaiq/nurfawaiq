@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3399ff&size=30&lines=Hi!+I'm+Mohammad+Nur+Fawaiq;a+Web+Developer;Blogger,+Tutor;+Machine+Learning+Enthusiast;And+I'm+Indonesian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3399ff&size=30&lines=Hi!+I'm+M.+Nur+Fawaiq;a+Web+Developer;Blogger,+Tutor;+Machine+Learning+Enthusiast;I'm+from+Indonesia)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=nurfawaiq&label=Views&color=brightgreen&style=flat-square" alt="nurfawaiq views on github" />
 
