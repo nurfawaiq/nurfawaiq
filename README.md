@@ -1,8 +1,8 @@
-<h3 align="center">Hi, I'm Mohammad Nur Fawaiq</h3>
-<h5 align="center">A long life learner - Indonesia</h5>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3399ff&size=30&lines=Hi!+I'm+Mohammad+Nur+Fawaiq;a+Web+Developer;Blogger,+Tutor;+Machine+Learning+Enthusiast;And+I'm+Indonesian)](https://git.io/typing-svg)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nurfawaiq&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="nurfawaiq github stats"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfawaiq&show_icons=true&locale=en&layout=compact" alt="nurfawaiq most used languages" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfawaiq&show_icons=true&locale=en&layout=compact" alt="nurfawaiq most used languages" />
+
+<img src="https://komarev.com/ghpvc/?username=nurfawaiq&label=Views&color=brightgreen&style=flat-square" alt="nurfawaiq views on github" />
 
 ### You can find me :
 [<img align="left" alt="nurfawaiq" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
