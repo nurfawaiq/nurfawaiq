@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3399ff&size=30&lines=I'm+Mohammad+Nur+Fawaiq;a+Web+Developer;Blogger,+Tutor;Machine+Learning+enthusiast;Long+life+learner;Proud+to+be+Indonesian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3399ff&size=30&lines=I'm+Mohammad+Nur+Fawaiq;Web+Developer;Tutor,+Writter;ML,+AI,+enthusiast;Long+life+learner;Proud+to+be+Indonesian)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=nurfawaiq&label=Views&color=brightgreen&style=flat-square" alt="nurfawaiq views on github" />
 
