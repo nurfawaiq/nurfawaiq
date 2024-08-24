@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=ebba1a&size=20&lines=I'm+Mohammad+Nur+Fawaiq;a+Developer,+Tutor,;Technopreneur,;AI,+CV,+Tech+enthusiast;Long+life+learner.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=ebba1a&size=20&lines=I'm+Mohammad+Nur+Fawaiq;a+Developer,+Tutor,+Technopreneur,;AI,+CV,+Tech+enthusiast,;Long+life+learner.)](https://git.io/typing-svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=nurfawaiq&show_icons=true&locale=en" alt="nurfawaiq" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfawaiq&show_icons=true&locale=en&layout=compact" alt="nurfawaiq" />
 
